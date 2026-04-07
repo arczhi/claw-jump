@@ -1,0 +1,7 @@
+# Build artifacts
+agent/.build/
+*.o
+*.pcm
+
+# macOS
+.DS_Store
